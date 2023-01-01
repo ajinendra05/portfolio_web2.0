@@ -19094,7 +19094,7 @@ _.d=e
 _.e=f
 _.f=g
 _.r=h},
-akD(a){var s,r,q=null,p="PROJECTS",o="CONTACTS",n="images/proff.jpg",m="AJINENDRA RAJPOOT",l=t.w,k=a.P(l).f,j=A.a([B.mf,B.dt],t.t_)
+akD(a){var s,r,q=null,p="PROJECTS",o="CONTACTS",n="assets/images/proff.jpg",m="AJINENDRA RAJPOOT",l=t.w,k=a.P(l).f,j=A.a([B.mf,B.dt],t.t_)
 if(a.P(l).f.a.a>500){s=A.bF("@ajinendra05",$.anc())
 r=t.E
 if(a.P(l).f.a.a>1200)l=A.iW(A.a([A.wn(A.bF("HOME",$.P7().qG(15)),new A.aby(a)),A.wn(A.bF(p,$.P7().qG(15)),new A.abz(a)),A.wn(A.bF(o,$.P7().qG(15)),new A.abA()),B.G7],r),B.S,B.N,B.G)
